@@ -371,7 +371,6 @@ class Slope_road:
 						
 						if (beg_value != None and end_value != None) :
 							distSeg=math.sqrt(pointbeg.sqrDist(pointend))
-							print distSeg
 							aslope=math.fabs(beg_value-end_value)/distSeg*100
 							attribute_line.append(aslope)
 					

@@ -1,8 +1,4 @@
-# This file contains metadata for your plugin. Since 
-# version 2.0 of QGIS this is the proper way to supply 
-# information about a plugin. The old method of 
-# embedding metadata in __init__.py will 
-# is no longer supported since version 2.0.
+# This file contains metadata for Slope_road plugin.
 
 # This file should be included when you package your plugin.# Mandatory items:
 
@@ -11,7 +7,7 @@ name=Slope_road
 qgisMinimumVersion=2.0
 description=Tools to calculate along and cross slope for road
 version=0.1
-author=Peillet SÃ©bastien
+author=Peillet Sébastien
 email=peillet.seb@gmail.com
 
 about=Qgis tools to calculate along and cross slope for road Contain : - Along slope tools - Cross slope tools
@@ -36,4 +32,3 @@ experimental=True
 
 # deprecated flag (applies to the whole plugin, not just a single version)
 deprecated=False
-
