@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/Slope_road" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
