@@ -6,8 +6,8 @@
  Tools to calculate along and cross slope for road
 							  -------------------
 		begin				 : 2017-03-22
-		git sha				 : $Format:%H$
-		copyright			 : (C) 2017 by Peillet Sébastien
+		git sha				 : 2017-03-29:16
+		copyright			 : (C) 2017 by Peillet Sebastien
 		email				 : peillet.seb@gmail.com
  ***************************************************************************/
 
