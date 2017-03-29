@@ -1,6 +1,10 @@
 # Slope_road
 Qgis tools to calculate along and cross slope for road.
 
+Install :
+Clone the repository in your .qgis2\python\plugins folder.
+Be careful, I don't know why but if you download the .zip and decompress it into the folder, you will get an error about compatibility between the plugin and your Qgis version.
+
 Input :
   - vector polyline
   - distance used to clip the polyline
