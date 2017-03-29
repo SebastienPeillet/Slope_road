@@ -1,5 +1,6 @@
 # Slope_road
 Qgis tools to calculate along and cross slope for road.
+Qgis version : 2.14 and more
 
 Install :
 Clone the repository in your .qgis2\python\plugins folder.
