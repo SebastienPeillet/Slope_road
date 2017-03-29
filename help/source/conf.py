@@ -179,7 +179,7 @@ htmlhelp_basename = 'TemplateClassdoc'
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
   ('index', 'Slope_road.tex', u'Slope_road Documentation',
-   u'Peillet Sébastien', 'manual'),
+   u'Peillet Sebastien', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
