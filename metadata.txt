@@ -7,7 +7,7 @@ name=Slope_road
 qgisMinimumVersion=2.0
 description=Tools to calculate along and cross slope for road
 version=0.1
-author=Peillet Sébastien
+author=Peillet Sebastien
 email=peillet.seb@gmail.com
 
 about=Qgis tools to calculate along and cross slope for road Contain : - Along slope tools - Cross slope tools
