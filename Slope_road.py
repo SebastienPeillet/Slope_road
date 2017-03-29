@@ -425,4 +425,4 @@ class Slope_road:
 
 			error = QgsVectorFileWriter.writeAsVectorFormat(roadSegment, road, "utf-8", None, "ESRI Shapefile") 
 			if error == QgsVectorFileWriter.NoError:
-				print "success!"
+				self.iface.messageBar().pushMessage("Info","Slope_road success", level=QgsMessageBar.INFO)
