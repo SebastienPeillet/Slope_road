@@ -41,7 +41,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Slope_road'
-copyright = u'2013, Peillet Sébastien'
+copyright = u'2013, Peillet Sebastien'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -212,5 +212,5 @@ latex_documents = [
 # (source start file, name, description, authors, manual section).
 man_pages = [
     ('index', 'TemplateClass', u'Slope_road Documentation',
-     [u'Peillet Sébastien'], 1)
+     [u'Peillet Sebastien'], 1)
 ]
