@@ -201,6 +201,7 @@ class Slope_road:
 
 	def run(self):
 		"""Run method that performs all the real work"""
+		self.dlg.RoadCombo.clear()
 		layers = self.iface.legendInterface().layers()
 		layer_list = []
 		for layer in layers:
@@ -212,7 +213,6 @@ class Slope_road:
 		# Run the dialog event loop
 		result = self.dlg.exec_()
 		# See if OK was pressed
-		self.dlg.RoadCombo.clear()
 		if result:
 			selected_lignes = self.dlg.RoadCombo.currentIndex()
 			linesLayer = layers[selected_lignes]
